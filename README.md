@@ -115,26 +115,3 @@ requirements.txt
 run.sh
 README.md
 
-How to Run:
-
-Install dependencies:
-
-pip install -r requirements.txt
-
-
-Execute the full pipeline:
-
-bash run.sh
-
-
-Outputs (plots + metrics) will be generated automatically.
-
-Key Takeaways:
-
-Logistic Regression provides a strong baseline for churn prediction.
-
-Threshold tuning significantly changes model behavior.
-
-Business priorities (minimize false negatives or false positives) should guide threshold selection.
-
-The workflow is modular, reproducible, and extendable.
