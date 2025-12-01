@@ -41,7 +41,7 @@ This project predicts customer churn for a telecom company using the IBM Telco C
 5. **Pick Best Threshold**  
    Finds the threshold with the highest F1-score for business action.
 
-## Results and Insights
+## Results and Insights This technique can help in identifying risky customers more effectively.
 
 - Churn prediction is challenging due to class imbalance.
 - Threshold tuning can improve recall for identifying risky customers.
